@@ -8,7 +8,7 @@ import '@openzeppelin/contracts/security/Pausable.sol';
 import "./interfaces/ITransferRules.sol";
 
 /// @title RoRa Prime (RORAP)
-/// @author RoRa Holdings Corporation
+/// @author RoRa Group
 /// @notice ERC-20 token with Access Control and ERC-1404 transfer restrictions.
 /// Portions inspired by CoMakery Security Token
 
